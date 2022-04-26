@@ -24,7 +24,7 @@ body{
   min-height:100%;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Arial';
   background: hsl(229.7,74.4%,69.4%, 0.2);
 }
 
